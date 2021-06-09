@@ -1,11 +1,14 @@
-JAVA Hangman ReadMe
-Name: Hangman
+**JAVA Hangman ReadMe**
+
+Name: **Hangman**
+
 Version: 0.4.1.3
-Contributors: M.RUSLAN DURRANI
+
+Contributors: **M.RUSLAN DURRANI**
 
 Simple Hangman game used for educational purposes.
 
-Description
+**Description**
 The project started as a goal to learn JAVA. As I learned more, I improved the application, and now its just something to fool around with. After finding GitHub, this was the only "useful" project to upload as to test out GitHub.
 
 
